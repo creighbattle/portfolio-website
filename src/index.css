@@ -70,3 +70,7 @@ code {
   position: fixed;
   bottom: 0px;
 }
+
+.lower {
+  padding-bottom: 50px;
+}
